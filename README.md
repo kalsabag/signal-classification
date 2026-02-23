@@ -1,4 +1,4 @@
-# WiFi Signal Quality API
+# Wireless Signal Quality API
 
 A Dockerized FastAPI microservice that classifies WiFi signal quality (Excellent/Good/Fair/Poor) from RF metrics using a trained ML model.
 
@@ -28,3 +28,4 @@ app/        # API, schemas, model loader
 models/     # Serialized ML model
 data/       # Synthetic training data
 tests/      # API tests
+
